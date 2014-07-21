@@ -6,6 +6,7 @@ While the rest of the country struggles with a job shortage the tech industry ha
 Tech Specific
 -----------------
 
+- http://www.authenticjobs.com/
 - https://jobs.github.com/
 - http://jobs.smashingmagazine.com/
 - http://www.awwwards.com/jobs/
